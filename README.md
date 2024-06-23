@@ -1,7 +1,7 @@
 # Исследование надёжности заёмщиков — анализ банковских данных
 
 
-[ipynb](https://github.com/Alexandra1624/01_yandex_music/blob/main/01_yandex_music.ipynb)
+[ipynb](https://github.com/Alexandra1624/02_analysis_of_bank_data/blob/main/02_analysis_of_bank_data.ipynb)
 
 ## Описание проекта
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.
